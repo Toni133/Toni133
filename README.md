@@ -4,7 +4,6 @@
 1. Тел. +79384222692
 2. Telegram: @Toniq133
 ## Технологии 
-![tools_Java_color](https://github.com/Toni133/Toni133/assets/123943377/cc0d5e7c-3c65-4b2b-8616-f2c1b39721fa)
 
 
 ## Навыки:
