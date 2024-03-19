@@ -56,9 +56,6 @@
 
 ## Сертификаты
 ![11](https://github.com/Toni133/Toni133/assets/123943377/1d97010f-2c8b-4c98-be40-b0b4067e7006) ![22](https://github.com/Toni133/Toni133/assets/123943377/c43af6a2-e808-47e1-970a-f178a6a5e1af)
-![33](https://github.com/Toni133/Toni133/assets/123943377/70141bb8-9602-4af2-b5e4-465b68487bc2) ![44](https://github.com/Toni133/Toni133/assets/123943377/839379dd-53e7-4e2e-9c66-32adab1b056d)
-![66](https://github.com/Toni133/Toni133/assets/123943377/fbc60901-4fbf-4121-9c87-cec93475fcbc) ![77](https://github.com/Toni133/Toni133/assets/123943377/cf5c4957-7829-4031-af4d-4677f176162a)
-![Контент-менеджер1](https://github.com/Toni133/Toni133/assets/123943377/a9399e4a-50aa-410b-8c5d-d6c88ca31dd2)
 
 
 
